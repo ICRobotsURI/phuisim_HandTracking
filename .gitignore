@@ -1,0 +1,12 @@
+# Model files
+*.task
+
+# Calibration data
+CameraCalibration/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
